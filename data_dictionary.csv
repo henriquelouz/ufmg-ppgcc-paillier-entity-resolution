@@ -1,0 +1,20 @@
+id,Attribute Name,Description
+1,id,Unique Id
+2,nomecompleto,Name
+3,nomep,First Name
+4,nomem,Middle Name
+5,nomeu,Last Name
+6,nomemae,Mother’s Name
+7,nomemaep,First Mother’s Name
+8,nomemaem,Middle Mother’s Name
+9,nomemaeu,Last Mother’s Name
+10,sexo,Sex
+11,data,Date of Birth
+12,dia,Day of Birth
+13,mes,Month of Birth
+14,ano,Year of Birth
+15,cpf,Brazilian National ID
+16,cns,Brazilian National Health ID
+17,ufres,State 
+18,codmunicipio,City
+19,cep,Zipcode
